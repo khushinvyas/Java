@@ -37,7 +37,7 @@ Feel free to explore and modify the code as needed. If you have any questions or
 
 GitHub Repository Link:
 
-https://github.com/khushinvyas/Java)https://github.com/khushinvyas/Java
+[https://github.com/khushinvyas/Java)https://github.com/khushinvyas/Java](https://github.com/khushinvyas/Java)https://github.com/khushinvyas/Java
 
 Author:
 
