@@ -1,3 +1,4 @@
+Assingment 2
 1. EvenOddArray.java
 Description:
 This Java program separates even and odd numbers entered by the user into two separate arrays named 'even' and 'odd'. It prompts the user to input the number of elements they want to enter and then prompts for each element. After the user enters all elements, the program divides them into two arrays based on whether they are even or odd and then prints the contents of each array.
