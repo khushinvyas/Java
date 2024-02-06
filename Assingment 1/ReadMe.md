@@ -1,3 +1,4 @@
+Assingment 2
 Java Input Methods Demo:
 
 This repository contains a Java program that demonstrates different input methods and a simple menu-driven calculator implemented in Java.
